@@ -12,6 +12,8 @@ RAYANE AMARO DOS SANTOS - 2023010280
 
 VALDEILSON BEZERRA DE LIMA – 2023010306
 
+DANIEL VICTOR DE SOUSA - 2022011514
+
 ## Instruções:
 Para compilar e executar o projeto: 
 Certifique-se de ter o JDK a partir do 20 instalado. 
